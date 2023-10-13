@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d30d9b07.css",
+    "main.js": "/portfolio/static/js/main.4ead0486.js",
+    "static/media/web.png": "/portfolio/static/media/web.08333b1be1ef3454dd40.png",
+    "static/media/youtube.png": "/portfolio/static/media/youtube.d7e0448851470d50d809.png",
+    "static/media/kfc.png": "/portfolio/static/media/kfc.72cba549e906bebb05f8.png",
+    "static/media/musicapp.png": "/portfolio/static/media/musicapp.9c5449de19a4d0ecd50f.png",
+    "static/media/girl.png": "/portfolio/static/media/girl.9b9fd9571cd1be2fe067.png",
+    "static/media/web2.png": "/portfolio/static/media/web2.4ea0f849097bebbd379d.png",
+    "static/media/apple.png": "/portfolio/static/media/apple.3bbf7e806266a3fd749a.png",
+    "static/media/vector-background.png": "/portfolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "static/media/web3.png": "/portfolio/static/media/web3.edd2a54e8a3db2bd8072.png",
+    "static/media/google.png": "/portfolio/static/media/google.3763960474e9a3962743.png",
+    "static/media/tech-icons.png": "/portfolio/static/media/tech-icons.bba568408fb42fa031c8.png",
+    "static/media/Abhinav.png": "/portfolio/static/media/Abhinav.4f364f7cef8ecdf1f3d5.png",
+    "static/media/Abhinav1.png": "/portfolio/static/media/Abhinav1.69de710984c2e197b824.png",
+    "static/media/cloud-soft.png": "/portfolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
+    "index.html": "/portfolio/index.html",
+    "main.d30d9b07.css.map": "/portfolio/static/css/main.d30d9b07.css.map",
+    "main.4ead0486.js.map": "/portfolio/static/js/main.4ead0486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30d9b07.css",
+    "static/js/main.4ead0486.js"
+  ]
+}
